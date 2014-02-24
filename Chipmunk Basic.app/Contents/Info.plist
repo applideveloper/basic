@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>11D50</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>bas</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>cBaS.doc</string>
+			<key>CFBundleTypeName</key>
+			<string>Basic Source</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>cBaS</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>Chipmunk Basic</string>
+	<key>CFBundleGetInfoString</key>
+	<string>3.6.6(b0)</string>
+	<key>CFBundleIconFile</key>
+	<string>cBaS-icon3</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.nicholson.chipmunkbasic3</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Chipmunk Basic</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.6.6b0</string>
+	<key>CFBundleSignature</key>
+	<string>cBaS</string>
+	<key>CFBundleVersion</key>
+	<string>3.6.6</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>4E2002</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>10K549</string>
+	<key>DTSDKName</key>
+	<string>macosx10.6</string>
+	<key>DTXcode</key>
+	<string>0432</string>
+	<key>DTXcodeBuild</key>
+	<string>4E2002</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.education</string>
+</dict>
+</plist>

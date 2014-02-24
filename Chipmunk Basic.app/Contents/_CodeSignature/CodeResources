@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Resources/Chipmunk Basic.rsrc</key>
+		<data>
+		tmZPuOIBjqB3J8SgbMtvxcbkVNI=
+		</data>
+		<key>Resources/cBaS-icon3.icns</key>
+		<data>
+		AKL/Bd0G6/SEMcn/8wSw1vtLPlw=
+		</data>
+		<key>Resources/cBaS.doc.icns</key>
+		<data>
+		/yvYYS/AR08hXvF0W7zKEz1cyZI=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
